@@ -1,6 +1,6 @@
 ### 
 
-A little about me: Started off doing electronic communications repair as a Marine. Moved into IT whilst in Japan. Eventually leading a few teams supporting companies in the Pacific with IT and IT procurement. Chased my goal of becoming a software engineer into NYU. Pursuing a joint Computer Science and Data Science degree. 
+A little about me: Started off doing electronic communications repair as a Marine. Moved into IT whilst in Japan. Eventually leading a few teams supporting companies pertaining IT management procurement. Moved into networking and security, before finally chasing my goal of becoming a software engineer by attending NYU CDS. Pursuing a joint Computer Science and Data Science degree. 
 
 - 🌱 I’m currently learning Japanese, C, Tableau, Julia
 - 📫 How to reach me: jhd9252@nyu.edu
