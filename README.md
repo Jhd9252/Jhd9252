@@ -1,4 +1,4 @@
-### Hey you. Yeah, you. Thanks for being here :) Much love
+### 
 
 A little about me: Started off doing electronic communications repair as a Marine. Moved into IT whilst in Japan. Eventually leading a few teams supporting companies in the Pacific with IT and IT procurement. Chased my goal of becoming a software engineer into NYU. Pursuing a joint Computer Science and Data Science degree. 
 
